@@ -1,4 +1,4 @@
-# **Rainbow Cat's General Java Programming Notes**
+# **Rainbow Cats General Java Programming Notes**
 
 ## **JDK & Gradle Settings**
 #### **Install JDL & Gradle**
